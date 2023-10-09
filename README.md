@@ -3,30 +3,8 @@
 
 Simple and Responsive News App using NewsApi provided by newsapi.org
 
-![banner1](https://user-images.githubusercontent.com/96806599/214238276-86de74ca-da10-4f9f-8fec-684130579fa7.png)
-![banner2](https://user-images.githubusercontent.com/96806599/214238363-586a8fe6-3f0d-42b6-836d-0e8c2646ed03.png)
-
-
-## Installation
-
-Clone the repo
-
-```bash
-  flutter pub get
-```
-```bash
-  flutter run
-```
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Screenshots
+![img1](https://github.com/Sahil6354/ApnaNews/assets/102516710/9242694d-1b07-435c-8c4c-47aafe49bf2d)
+![img2](https://github.com/Sahil6354/ApnaNews/assets/102516710/aa3eda52-a522-496e-b62b-a861fdf314b1)
+![img3](https://github.com/Sahil6354/ApnaNews/assets/102516710/e8d039de-3232-4de6-ab23-b04078604ae8)
+![img4](https://github.com/Sahil6354/ApnaNews/assets/102516710/e8bd2f95-ce47-499e-a5a7-d99f287da0de)
